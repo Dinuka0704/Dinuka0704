@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dinuka0704
-- 👀 I’m interested in React JS,JAVA, JAVA SCRIPT
+- 👀 I’m interested in React JS,Machine Learning, JAVA, JAVA SCRIPT
 - 🌱 I’m currently learning REACT JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dinuka.gimhana2001@gmail.com
