@@ -118,10 +118,7 @@ I'm a passionate software developer from Sri Lanka, currently affiliated with th
 ### 📫 Connect With Me
 
 - 📧 Email: *dinuka.gimhana2001@gmail.com*
-- 💻 GitHub: [dinuka](https://github.com/sahancoder)
+- 💻 GitHub: [dinuka]([(https://github.com/Dinuka0704)])
 
 ---
 
-<p align="center">
-  <i>Let's connect and create something amazing together! 🚀</i>
-</p>
